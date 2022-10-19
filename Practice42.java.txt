@@ -1,0 +1,11 @@
+public class Main {
+  static void myMethod(String fname) {
+    System.out.println(fname + "Gedala");
+  }
+
+  public static void main(String[] args) {
+    myMethod("Chanu");
+    myMethod("Chandini");
+    myMethod("Anu");
+  }
+}

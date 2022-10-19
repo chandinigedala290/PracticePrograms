@@ -1,0 +1,10 @@
+package Hello;
+
+public class String {
+
+	public static void main(java.lang.String[] args) {
+		
+		java.lang.String a = "hey i'm chandini";
+		System.out.println(a.length());
+	}
+}

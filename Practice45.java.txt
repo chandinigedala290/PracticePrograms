@@ -1,0 +1,12 @@
+package Hello;
+
+public class String {
+
+	public static void main(String[] args) {
+		
+		String a = "hi";
+		System.out.println(a.length());
+                String b = "Chanu";
+                System.out.println(b.length());
+	}
+}
